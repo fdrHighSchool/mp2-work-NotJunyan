@@ -2,9 +2,9 @@
 ## fall22-mp2-work
 
 
-### Last Name:  
-### First Name:
-### GitHub Username:
+### Last Name:  Lin
+### First Name: JunYan
+### GitHub Username:NotJunyan
 
 ---
 #### General Workflow:
